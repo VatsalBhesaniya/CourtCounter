@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="btn_reset_margin">32dp</dimen>
+    <dimen name="margin_scoreTextview">24dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="width_line">1dp</dimen>
+    <dimen name="layout_width_zero">0dp</dimen>
+    <dimen name="text_Heading">22sp</dimen>
+    <dimen name="text_textview">20sp</dimen>
+    <dimen name="text_button">16sp</dimen>
+    <dimen name="text_large">56sp</dimen>
+</resources>
